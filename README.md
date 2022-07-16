@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" Width="400" src="https://cdn.dribbble.com/users/3431481/screenshots/10546863/media/a05715c09ccd37dcef5b85b2f79dd968.gif">
+<img align="right" alt="Coding" Width="300" src="https://cdn.dribbble.com/users/3431481/screenshots/10546863/media/a05715c09ccd37dcef5b85b2f79dd968.gif">
 
 <h1 align="center">💻 My Portfolio Website 👨‍💻</h1>
 
