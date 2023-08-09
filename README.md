@@ -11,4 +11,4 @@ I have created a simple portfolio website of mine using html, css and javascript
 ```bash
   https://saikat-sheet-portfolio.netlify.app/
 ```
-<img align="right" alt="Coding" Width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/78a97163065537.5aa76fff8bb77.gif">
+<img align="center" alt="Coding" Width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/78a97163065537.5aa76fff8bb77.gif">
